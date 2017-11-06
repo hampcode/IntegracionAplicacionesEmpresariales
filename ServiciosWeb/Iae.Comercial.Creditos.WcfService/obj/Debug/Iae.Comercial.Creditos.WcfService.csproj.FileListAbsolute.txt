@@ -9,4 +9,13 @@ C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Come
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Implementacion.pdb
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Contrato.dll
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Implementacion.dll
-C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Contrato.dll.config
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Dominio.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Fachada.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.SqlRepositorio.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Dapper.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Dominio.pdb
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Fachada.pdb
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.SqlRepositorio.pdb
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Dapper.xml

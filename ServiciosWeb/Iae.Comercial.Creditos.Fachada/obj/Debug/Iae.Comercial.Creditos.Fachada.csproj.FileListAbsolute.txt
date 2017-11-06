@@ -10,3 +10,5 @@ C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Come
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Fachada\bin\Debug\Iae.Comercial.Creditos.Dominio.dll
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Fachada\bin\Debug\Iae.Comercial.Creditos.SqlRepositorio.dll
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Fachada\obj\Debug\Iae.Comercial.Creditos.Fachada.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Fachada\bin\Debug\Dapper.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Fachada\bin\Debug\Dapper.xml
