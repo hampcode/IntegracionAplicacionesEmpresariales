@@ -1,10 +1,9 @@
-C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\bin\Debug\Iae.Comercial.Creditos.Contrato.exe.config
-C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\bin\Debug\Iae.Comercial.Creditos.Contrato.exe
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\bin\Debug\Iae.Comercial.Creditos.Contrato.pdb
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\obj\Debug\Iae.Comercial.Creditos.Contrato.csprojResolveAssemblyReference.cache
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\obj\Debug\Iae.Comercial.Creditos.Contrato.csproj.CoreCompileInputs.cache
-C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\obj\Debug\Iae.Comercial.Creditos.Contrato.exe
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\obj\Debug\Iae.Comercial.Creditos.Contrato.pdb
-C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\bin\Debug\Iae.Comercial.Creditos.Dominio.exe
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\bin\Debug\Iae.Comercial.Creditos.Dominio.pdb
-C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\bin\Debug\Iae.Comercial.Creditos.Dominio.exe.config
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\bin\Debug\Iae.Comercial.Creditos.Contrato.dll.config
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\bin\Debug\Iae.Comercial.Creditos.Contrato.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\bin\Debug\Iae.Comercial.Creditos.Dominio.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Contrato\obj\Debug\Iae.Comercial.Creditos.Contrato.dll

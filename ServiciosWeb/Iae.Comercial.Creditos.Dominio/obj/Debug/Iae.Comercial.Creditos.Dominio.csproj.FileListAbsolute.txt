@@ -1,7 +1,6 @@
-C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Dominio\bin\Debug\Iae.Comercial.Creditos.Dominio.exe.config
-C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Dominio\bin\Debug\Iae.Comercial.Creditos.Dominio.exe
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Dominio\bin\Debug\Iae.Comercial.Creditos.Dominio.pdb
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Dominio\obj\Debug\Iae.Comercial.Creditos.Dominio.csprojResolveAssemblyReference.cache
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Dominio\obj\Debug\Iae.Comercial.Creditos.Dominio.csproj.CoreCompileInputs.cache
-C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Dominio\obj\Debug\Iae.Comercial.Creditos.Dominio.exe
 C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Dominio\obj\Debug\Iae.Comercial.Creditos.Dominio.pdb
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Dominio\bin\Debug\Iae.Comercial.Creditos.Dominio.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.Dominio\obj\Debug\Iae.Comercial.Creditos.Dominio.dll
