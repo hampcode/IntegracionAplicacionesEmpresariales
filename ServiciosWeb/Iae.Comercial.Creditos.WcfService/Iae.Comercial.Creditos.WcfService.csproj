@@ -82,6 +82,16 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Iae.Comercial.Creditos.Contrato\Iae.Comercial.Creditos.Contrato.csproj">
+      <Project>{7c5d9adc-f2ce-4396-8a54-9059b79d3598}</Project>
+      <Name>Iae.Comercial.Creditos.Contrato</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Iae.Comercial.Creditos.Implementacion\Iae.Comercial.Creditos.Implementacion.csproj">
+      <Project>{edb07ef2-9ce7-470c-9466-65f459695aac}</Project>
+      <Name>Iae.Comercial.Creditos.Implementacion</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

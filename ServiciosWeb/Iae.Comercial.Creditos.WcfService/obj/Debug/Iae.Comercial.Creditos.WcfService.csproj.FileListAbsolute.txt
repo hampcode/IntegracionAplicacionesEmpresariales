@@ -1,0 +1,13 @@
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.WcfService.dll.config
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.WcfService.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.WcfService.pdb
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\obj\Debug\Iae.Comercial.Creditos.WcfService.csprojResolveAssemblyReference.cache
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\obj\Debug\Iae.Comercial.Creditos.WcfService.csproj.CoreCompileInputs.cache
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\obj\Debug\Iae.Comercial.Creditos.WcfService.dll
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\obj\Debug\Iae.Comercial.Creditos.WcfService.pdb
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Contrato.exe
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Implementacion.exe
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Contrato.pdb
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Contrato.exe.config
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Implementacion.pdb
+C:\Users\hamp\Desktop\IntegracionAplicacionesEmpresariales\ServiciosWeb\Iae.Comercial.Creditos.WcfService\bin\Iae.Comercial.Creditos.Implementacion.exe.config

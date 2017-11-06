@@ -48,5 +48,19 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Iae.Comercial.Creditos.ContratoRepositorio\Iae.Comercial.Creditos.ContratoRepositorio.csproj">
+      <Project>{18514ef3-ac74-4144-a90b-60492b9a5bc8}</Project>
+      <Name>Iae.Comercial.Creditos.ContratoRepositorio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Iae.Comercial.Creditos.Dominio\Iae.Comercial.Creditos.Dominio.csproj">
+      <Project>{91c8851a-e3d2-4ab8-94ad-7231693e03d8}</Project>
+      <Name>Iae.Comercial.Creditos.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Iae.Comercial.Creditos.SqlRepositorio\Iae.Comercial.Creditos.SqlRepositorio.csproj">
+      <Project>{9b068076-1df8-4a06-a617-0a2ad55b36c5}</Project>
+      <Name>Iae.Comercial.Creditos.SqlRepositorio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

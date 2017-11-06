@@ -48,5 +48,19 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Iae.Comercial.Creditos.Contrato\Iae.Comercial.Creditos.Contrato.csproj">
+      <Project>{7c5d9adc-f2ce-4396-8a54-9059b79d3598}</Project>
+      <Name>Iae.Comercial.Creditos.Contrato</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Iae.Comercial.Creditos.Dominio\Iae.Comercial.Creditos.Dominio.csproj">
+      <Project>{91c8851a-e3d2-4ab8-94ad-7231693e03d8}</Project>
+      <Name>Iae.Comercial.Creditos.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Iae.Comercial.Creditos.Fachada\Iae.Comercial.Creditos.Fachada.csproj">
+      <Project>{6e8eb5ac-935b-4542-ac79-2c7f96682b98}</Project>
+      <Name>Iae.Comercial.Creditos.Fachada</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
