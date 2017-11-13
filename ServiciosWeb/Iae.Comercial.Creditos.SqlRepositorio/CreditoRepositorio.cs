@@ -63,6 +63,18 @@ namespace Iae.Comercial.Creditos.SqlRepositorio
             }
         }
 
+        public Credito ObtenerCredito(string idCredito)
+        {
+            using (IDbConnection conexion = new SqlConnection(ConexionRepositorio.ObtenerCadenaConexion()))
+            {
+                conexion.Open();
+                var parametros = new DynamicParameters();
+                parametros.Add("IdCredito", idCredito);
+                var credito = conexion.QueryFirst<Credito>("dbo.sp_credito_obtener", param: parametros, commandType: CommandType.StoredProcedure);
+                return credito;
+            }
+        }
+
         public Credito RegistrarCredito(Credito credito)
         {
             using (IDbConnection conexion = new SqlConnection(

@@ -38,5 +38,14 @@ namespace Iae.Comercial.Creditos.Implementacion
                 return instancia.RegistrarCredito(credito);
             }
         }
+
+        public Credito ObtenerCredito(string idCredito)
+        {
+            using (var instancia = new CreditoFachada())
+            {
+                return instancia.ObtenerCredito(idCredito);
+            }
+        }
+
     }
 }

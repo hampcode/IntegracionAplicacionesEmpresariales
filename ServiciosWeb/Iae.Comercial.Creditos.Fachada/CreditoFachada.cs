@@ -38,5 +38,12 @@ namespace Iae.Comercial.Creditos.Fachada
             ICreditoRepositorio instancia = new CreditoRepositorio();
             return instancia.EliminarCredito(idCredito);
         }
+
+        public Credito ObtenerCredito(string idCredito)
+        {
+            ICreditoRepositorio creditoRepositorio = new CreditoRepositorio();
+            return creditoRepositorio.ObtenerCredito(idCredito);
+        }
+
     }
 }

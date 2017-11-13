@@ -47,5 +47,10 @@ namespace Iae.Comercial.Creditos.Contrato
             UriTemplate = "/EliminarCredito/{idCredito}",
             BodyStyle = WebMessageBodyStyle.Bare)]
         bool EliminarCredito(string idCredito);
+
+        [OperationContract]
+        [Description("Servicio REST que obtiene la información de un crédito en especifico.")]
+        [WebGet(UriTemplate = "/ObtenerCredito/{idCredito}", BodyStyle = WebMessageBodyStyle.Bare, RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
+        Credito ObtenerCredito(string idCredito);
     }
 }

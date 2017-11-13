@@ -9,5 +9,7 @@ namespace Iae.Comercial.Creditos.ContratoRepositorio
         Credito RegistrarCredito(Credito credito);
         Credito ActualizarCredito(Credito credito);
         bool EliminarCredito(string idCredito);
+
+        Credito ObtenerCredito(string idCredito);
     }
 }
