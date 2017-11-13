@@ -1,0 +1,75 @@
+﻿@model IEnumerable<AppWebCreditos.Models.CreditoViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdCredito)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoCredito)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IdCliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Monto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DiaPago)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tasa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comision)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdCredito)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoCredito)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdCliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Monto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DiaPago)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tasa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comision)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { item.IdCredito }) |            
+            @Html.ActionLink("Delete", "Delete", new { item.IdCredito })
+        </td>
+    </tr>
+}
+
+</table>
